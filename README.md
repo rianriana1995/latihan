@@ -18,7 +18,7 @@ repository.
 **kegagalan** saat menjalankan perintah git commit
 * Lakukan "git config --global user.name dan emal " 
 supaya bisa login github ketika push
-#![GitHub Logo](1.png) 
+#![GitHub Logo](Capture.PNG) 
 
 # Perintah Dasar Git <h2>
 * _**git init**_, perintah untuk membuat repository local
@@ -39,18 +39,18 @@ server/reopsitory server pada local repositry (working directory)
 directory)
 * direktory aktif menjadi: c:/Latihan 
 * Buatlah direktory "Latihan" kemudian masuk ke direktory tersebut 
-# ![GitHub Logo](2.png) <h2>
+# ![GitHub Logo](1.PNG) <h2>
 * Lakukan "git init" untuk menjadikan repository lokal 
-# ![GitHub Logo](3.png) <h2>
+# ![GitHub Logo](2.PNG) <h2>
 * Buat File Bernama "README.md" (text file), jika file berhasil dibuat, akan tampil seperti dlm gambar
-# ![GitHub Logo](4.png) <h2>
+# ![GitHub Logo](3.PNG) <h2>
 * kemudian tambahkan file tersebut ke repository dengan " git add 
 README.md, file yang berhasil ditambahkan akan terlihat seperti di 
 gambar, dengan "git status" 
-# ![GitHub Logo](5.png) <h2>
+# ![GitHub Logo](4.PNG) <h2>
 * Untuk  Menyimpan perubahan sebuah file ke repository local gunakan 
 printah " git commit -m "perubahan yang terjadi"
-# ![GitHub Logo](6.png)
+# ![GitHub Logo](5.PNG)
 # Membuat repository server <h2>
 * Server reopsitory yang akan kita gunakan adalah http://github.com
 * Anda harus membuat akun terlebih dahulu. • Pada laman github, klik tombol start a project, atau
@@ -70,9 +70,9 @@ git remote add origin [url]
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 * Gunakan printah " git push -u origin master" 
-# ![GitHub Logo](8.png)
+# ![GitHub Logo](7.PNG)
 
 # Melihat hasilnya pada server repository <h2>
 * Buka laman github.com, arahkan pada repositori- nya. 
 * Maka perubahan akan terlihat pada laman tersebut. 
-![GitHub Logo](9.png)
+#![GitHub Logo](8.PNG)
